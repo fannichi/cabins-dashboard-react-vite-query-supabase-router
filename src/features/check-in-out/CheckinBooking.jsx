@@ -14,7 +14,7 @@ import { useEffect, useState } from 'react';
 import { useCheckin } from './useCheckin';
 import { formatCurrency } from '../../utils/helpers';
 import { useSettings } from '../settings/useSettings';
-import CheckBox from '../../ui/CheckBox';
+import CheckBox from '../../ui/CheckddBox';
 // import CheckBox from '../../ui/CheckBox';
 
 const Box = styled.div`
